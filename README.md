@@ -171,11 +171,11 @@ Full-stack e-commerce platform featuring authentication, payments, admin dashboa
 <a href="https://linkedin.com/in/karan-patel94">
 <img src="https://img.shields.io/badge/LinkedIn-Karan_Patel-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-<br>
+<br><br>
 <a href="mailto:karanpatel@adiance.com">
 <img src="https://img.shields.io/badge/Work-karanpatel%40adiance.com-EA4335?style=for-the-badge&logo=gmail">
 </a>
-
+&ensp;
 <a href="mailto:karanj707@gmail.com">
 <img src="https://img.shields.io/badge/Personal-karanj707%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
 </a>
