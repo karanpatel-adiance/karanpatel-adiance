@@ -33,7 +33,7 @@ Building Scalable APIs • PostgreSQL • Prisma • Docker • Redis • Rabbit
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,postgres,mongodb,prisma,redis,docker,git,github,linux,vscode,postman,tailwind&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,postgresql,mongodb,prisma,redis,pino,bullmq,docker,git,github,linux,vscode,postman,tailwind&perline=9"/>
 
 </p>
 
