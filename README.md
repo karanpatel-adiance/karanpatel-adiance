@@ -167,15 +167,11 @@ Full-stack e-commerce platform featuring authentication, payments, admin dashboa
 <a href="https://github.com/karanpatel-adiance">
 <img src="https://img.shields.io/badge/GitHub-karanpatel--adiance-181717?style=for-the-badge&logo=github">
 </a>
-
-
-
+<br>
 <a href="https://linkedin.com/in/karan-patel94">
 <img src="https://img.shields.io/badge/LinkedIn-Karan_Patel-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
-
-
-
+<br>
 <a href="mailto:karanpatel@adiance.com">
 <img src="https://img.shields.io/badge/Work-karanpatel%40adiance.com-EA4335?style=for-the-badge&logo=gmail">
 </a>
