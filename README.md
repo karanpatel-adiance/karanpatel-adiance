@@ -63,6 +63,14 @@ Building scalable, production-ready web applications with modern backend technol
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
