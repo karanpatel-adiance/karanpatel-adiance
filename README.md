@@ -33,7 +33,15 @@ Building Scalable APIs • PostgreSQL • Prisma • Docker • Redis • Rabbit
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,postgresql,mongodb,prisma,redis,pino,bullmq,docker,git,github,linux,vscode,postman,tailwind&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,postgres,mongodb,prisma,docker,redis,tailwind" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+<img src="https://img.shields.io/badge/BullMQ-EAB308?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Pino-FFD43B?style=for-the-badge" />
 
 </p>
 
