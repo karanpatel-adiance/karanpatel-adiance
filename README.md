@@ -30,3 +30,27 @@ Building scalable, production-ready web applications with modern backend technol
 - 📚 Currently exploring System Design & Cloud Technologies
 
 ---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,ts,js,postgres,mongodb,prisma,redis,docker,git,github,linux,vscode,postman,tailwind&perline=9"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+✓ Building scalable backend systems
+✓ NestJS & Clean Architecture
+✓ PostgreSQL + Prisma ORM
+✓ Redis Caching
+✓ Docker & Containerization
+✓ System Design
+✓ Microservices
+```
+
+---
