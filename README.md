@@ -76,3 +76,39 @@ Building scalable, production-ready web applications with modern backend technol
 [![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=github-dark&hide_border=true)](https://github.com/karanpatel-adiance)
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/karanpatel-adiance">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://linkedin.com/in/karan-patel94">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:karanpatel@adiance.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Work Email" />
+  </a>
+
+  <a href="mailto:karanj707@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Personal Email" />
+  </a>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+> *"First make it work, then make it right, then make it fast."*
+>
+> — Kent Beck
