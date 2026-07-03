@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Engineer
+Full Stack Developer • Frontend + Backend Developer 
 </h3>
 
 <p align="center">
@@ -22,13 +22,13 @@ Building scalable, production-ready web applications with modern backend technol
 
 ## 🚀 About Me
 
-- 💻 Full Stack JavaScript Developer
-- ⚙️ Backend Engineer specializing in NestJS
-- 🛢️ Building scalable APIs with PostgreSQL & Prisma
+- 💻 MERN Stack & Backend Developer
+- ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
+- 🌐 Developing modern web applications with React.js & Next.js
+- 🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
 - 🔐 Passionate about Authentication, Authorization & Security
-- 🐳 Learning Docker, Redis & Microservices
-- 📚 Currently exploring System Design & Cloud Technologies
-
+- 🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
+- 📚 Exploring System Design, Microservices & Cloud Technologies
 ---
 
 ## 💻 Tech Stack
@@ -52,5 +52,27 @@ Building scalable, production-ready web applications with modern backend technol
 ✓ System Design
 ✓ Microservices
 ```
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpatel-adiance&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karanpatel-adiance&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=github-dark&hide_border=true)](https://github.com/karanpatel-adiance)
 
 ---
