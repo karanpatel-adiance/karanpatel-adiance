@@ -1,12 +1,18 @@
-┌──────────────────────────────────────────────────────────┐
-│                    KARAN PATEL                           |
-│    MERN Stack • NestJS • Frontend+Backend Developer      │
-│       Building Scalable APIs & Production Systems        │
-└──────────────────────────────────────────────────────────┘
+<div align="center">
+
+# Hi 👋, I'm Karan Patel
+
+### MERN Stack Developer • NestJS Backend Engineer
+
+<p>
+Building Scalable APIs • PostgreSQL • Prisma • Docker • Redis • RabbitMQ
+</p>
+
+</div>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;NestJS+%7C+Node.js+%7C+PostgreSQL;Prisma+ORM+%7C+Redis+%7C+Docker;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Mern+Stack+Developer;;NestJS+%7C+Node.js+%7C+PostgreSQL;Prisma+ORM+%7C+Redis+%7C+Docker;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </p>
 
