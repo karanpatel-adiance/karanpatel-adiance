@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Karan Patel
 
-### MERN Stack Developer • NestJS Backend Engineer
+### MERN Stack Developer 
 
 <p>
 Building Scalable APIs • PostgreSQL • Prisma • Docker • Redis • RabbitMQ
