@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Karan Patel</h1>
-
-<h3 align="center">
-Full Stack Developer • Frontend + Backend Developer 
-</h3>
-
-<p align="center">
-Building scalable, production-ready web applications with modern backend technologies.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karanpatel-adiance&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
+┌──────────────────────────────────────────────────────────┐
+│                    KARAN PATEL                           |
+│    MERN Stack • NestJS • Frontend+Backend Developer      │
+│       Building Scalable APIs & Production Systems        │
+└──────────────────────────────────────────────────────────┘
 
 <p align="center">
 
@@ -71,6 +63,63 @@ Building scalable, production-ready web applications with modern backend technol
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">Task Management System</h3>
+
+<p align="center">
+
+Backend-first task management application built with NestJS, PostgreSQL, Prisma and JWT Authentication.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+<h3 align="center">MERN E-Commerce</h3>
+
+<p align="center">
+
+Full-stack e-commerce platform featuring authentication, payments, admin dashboard and order management.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_REPO_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -107,30 +156,41 @@ Building scalable, production-ready web applications with modern backend technol
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="https://github.com/karanpatel-adiance">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
 
-  <a href="https://linkedin.com/in/karan-patel94">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+<a href="https://github.com/karanpatel-adiance">
+<img src="https://img.shields.io/badge/GitHub-karanpatel--adiance-181717?style=for-the-badge&logo=github">
+</a>
 
-  <a href="mailto:karanpatel@adiance.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Work Email" />
-  </a>
+<a href="https://linkedin.com/in/karan-patel94">
+<img src="https://img.shields.io/badge/LinkedIn-Karan_Patel-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
-  <a href="mailto:karanj707@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Personal Email" />
-  </a>
+<a href="mailto:karanpatel@adiance.com">
+<img src="https://img.shields.io/badge/Work-karanpatel%40adiance.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="mailto:karanj707@gmail.com">
+<img src="https://img.shields.io/badge/Personal-karanj707%40gmail.com-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+---
+
+## 💭 Engineering Mindset
+
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**
+>
+> — Harold Abelson
+>
+> ---
+>
+> <p align="center">
+
+Thanks for visiting my profile! ⭐
+
+If you like my work, consider following me and exploring my repositories.
+
 </p>
 
 ---
-
-## 💭 Developer Philosophy
-
-> *"First make it work, then make it right, then make it fast."*
->
-> — Kent Beck
