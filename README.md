@@ -10,13 +10,19 @@
 
 -   💻 Full Stack JavaScript Developer with a strong focus on backend
     development
+    
 -   ⚙️ Building scalable backend services with Node.js, NestJS &
     Express.js
+    
 -   🌐 Developing modern web applications using React.js & Next.js
+-   
 -   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
+-   
 -   🔐 Passionate about Authentication, Authorization, Security & Clean
     Architecture
+    
 -   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
+-   
 -   📚 Exploring System Design, Microservices & Cloud Technologies
 </div>
 
@@ -65,12 +71,19 @@
 ## 🎯 Current Focus
 
 -   🚀 Building scalable backend systems
+-   
 -   ⚙️ Mastering NestJS & Clean Architecture
+-   
 -   🗄️ Advanced PostgreSQL & Prisma ORM
+-   
 -   ⚡ Redis Caching & Queue Management
+-   
 -   🐳 Docker & Containerization
+-   
 -   📨 RabbitMQ & Event-Driven Architecture
+-   
 -   🧩 Microservices & Distributed Systems
+-   
 -   📈 System Design & Scalability
   
 </div>
