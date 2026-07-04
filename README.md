@@ -2,9 +2,12 @@
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p>
 
+-----------------------------------------------------------------------
+
+## 🚀 About Me
 
 <div align="center">
-## 🚀 About Me
+
 
 -   💻 Full Stack JavaScript Developer with a strong focus on backend
     development
