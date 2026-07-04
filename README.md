@@ -92,9 +92,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p>
-  <img width="95%" src="./github-metrics.svg"/>
-</p>
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
