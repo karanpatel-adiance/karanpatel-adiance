@@ -2,7 +2,6 @@
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p>
 
------------------------------------------------------------------------
 
 
 <div align="center">
