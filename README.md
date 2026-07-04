@@ -8,22 +8,20 @@
 
 ## 🚀 About Me
 
--   💻 Full Stack JavaScript Developer with a strong focus on backend
-    development
-    
--   ⚙️ Building scalable backend services with Node.js, NestJS &
-    Express.js
+-   💻 Full Stack JavaScript Developer with a strong focus on backend development
+        
+-   ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
     
 -   🌐 Developing modern web applications using React.js & Next.js
--   
+    
 -   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
--   
--   🔐 Passionate about Authentication, Authorization, Security & Clean
-    Architecture
+    
+-   📚 Exploring System Design, Microservices & Cloud Technologies
     
 -   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
--   
--   📚 Exploring System Design, Microservices & Cloud Technologies
+    
+-   🔐 Passionate about Authentication, Authorization, Security & Clean Enterprise  Architecture
+  
 </div>
 
 <hr>
