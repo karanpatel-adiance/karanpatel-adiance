@@ -79,25 +79,40 @@
 ------------------------------------------------------------------------
 
 
+<hr>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-<h2>📊 GitHub Analytics</h2>
-
 <p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true" />
 </p>
 
+<br>
+
 <p>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true" />
 </p>
 
+<br>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+  <img width="95%" src="./github-metrics.svg" />
+</p>
+
+<br>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 </div>
+
+<hr>
+
 
 
 ------------------------------------------------------------------------
