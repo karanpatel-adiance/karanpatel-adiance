@@ -5,6 +5,7 @@
 ### MERN Stack Developer 
 
 <p>
+                    M(MongoDB) • E(Express) • R(React) • N(NodeJS) 
   Mongoose • MongoDB • PostgreSQL • Prisma • Docker • Redis • RabbitMQ • BullMQ • Pino 
 </p>
 
@@ -20,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 💻 MERN Stack & Backend Developer
+- 💻 M(MongoDB) • E(Express) • R(React) • N(NodeJS)
 - ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
 - 🌐 Developing modern web applications with React.js & Next.js
 - 🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
