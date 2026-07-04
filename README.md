@@ -20,6 +20,7 @@
 -   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
 -   📚 Exploring System Design, Microservices & Cloud Technologies
 </div>
+
 ------------------------------------------------------------------------
 
 <div align="center">
@@ -60,6 +61,8 @@
 
 ------------------------------------------------------------------------
 
+<div align="center>
+  
 ## 🎯 Current Focus
 
 -   🚀 Building scalable backend systems
@@ -70,6 +73,8 @@
 -   📨 RabbitMQ & Event-Driven Architecture
 -   🧩 Microservices & Distributed Systems
 -   📈 System Design & Scalability
+  
+</div>
 
 ------------------------------------------------------------------------
 
@@ -150,9 +155,10 @@
 
 ------------------------------------------------------------------------
 
-## 💭 Engineering Philosophy
 
 <div align="center">
+
+## 💭 Engineering Philosophy
 
 > **"Programs must be written for people to read, and only incidentally for machines to execute."**
 
@@ -160,7 +166,7 @@
 
 </div>
 
----
+------------------------------------------------------------------------
 
 <div align="center">
 
