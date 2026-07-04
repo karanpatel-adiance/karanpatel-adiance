@@ -80,7 +80,7 @@
 
 <div align="center">
 
-# 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -101,7 +101,7 @@
 
 </div>
 
----
+<hr>
 
 ------------------------------------------------------------------------
 
