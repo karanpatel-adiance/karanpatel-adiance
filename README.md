@@ -5,19 +5,17 @@
 ### MERN Stack Developer 
 
 <p>
-                    M(MongoDB) • E(Express) • R(React) • N(NodeJS)<br><br>
-                                   Nestjs • Nextjs<br><br>
-                                    PostgreSQL • Prisma<br><br>
-                            Docker • Redis • RabbitMQ • BullMQ • Pino 
+    M(MongoDB) • E(Express) • R(React) • N(NodeJS)<br><br>
+    Nestjs • Nextjs<br><br>
+    PostgreSQL • Prisma<br><br>
+    Docker • Redis • RabbitMQ • BullMQ • Pino 
 </p>
 
-</div>
-
-<p align="center">
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Mern+Stack+Developer;;NestJS+%7C+Node.js+%7C+PostgreSQL;Prisma+ORM+%7C+Redis+%7C+Docker;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 ---
 
