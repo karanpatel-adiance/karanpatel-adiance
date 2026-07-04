@@ -81,6 +81,8 @@
 
 <div align="center">
 
+##Github Analytics
+
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true"/>
