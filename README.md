@@ -73,7 +73,8 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <!-- Added cache buster to force local file re-render -->
+  <img src="./github-metrics.svg?v=1.0" alt="GitHub Metrics" />
 </p>
 
 ---
