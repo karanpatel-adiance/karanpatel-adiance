@@ -82,10 +82,12 @@
 
 ## 📊 GitHub Analytics
 
+ <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true"/>
 
+</div>
 <br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true"/>
