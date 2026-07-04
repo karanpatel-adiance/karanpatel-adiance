@@ -146,7 +146,7 @@
 <div align="center">
 
 <a href="https://github.com/karanj707mern">
-<img src="https://img.shields.io/badge/GitHub-karanpatel--adiance-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-karanj707mern-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br><br>
