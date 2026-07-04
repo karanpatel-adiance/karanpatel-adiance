@@ -5,7 +5,7 @@
 ### MERN Stack Developer 
 
 <p>
-Building Scalable APIs • PostgreSQL • Prisma • Docker • Redis • RabbitMQ
+  Mongoose • MongoDB • PostgreSQL • Prisma • Docker • Redis • RabbitMQ • BullMQ • Pino 
 </p>
 
 </div>
