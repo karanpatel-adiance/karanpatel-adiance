@@ -78,7 +78,7 @@
 
 ------------------------------------------------------------------------
 
-<div align="center">📊 GitHub Analytics</div>
+<div><p align="center">📊 GitHub Analytics</p></div>
 
 <div align="center">
 
