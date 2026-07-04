@@ -96,10 +96,6 @@
 
 <br>
 
-<p>
-  <img width="95%" src="./github-metrics.svg" />
-</p>
-
 <br>
 
 <p>
