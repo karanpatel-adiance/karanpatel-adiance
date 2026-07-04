@@ -1,10 +1,6 @@
-# Hi 👋, I'm Karan Patel
-
-### MERN Stack Developer • NestJS Backend Developer
-
-Building scalable backend systems with NestJS and crafting modern web
-applications using React & Next.js.
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
+</p>
 ------------------------------------------------------------------------
 
 ## 🚀 About Me
