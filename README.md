@@ -80,26 +80,28 @@
 
 <div align="center">
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karanpatel-adiance&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanpatel-adiance&theme=tokyonight&hide_border=true"/>
+<p>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<br><br>
+<p>
+  <img width="90%" src="./github-metrics.svg"/>
+</p>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanpatel-adiance&theme=tokyo-night&hide_border=true"/>
-
-<br><br>
-
-<img width="90%" src="./github-metrics.svg"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=karanpatel-adiance&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+</p>
 
 </div>
 
+---
 
 ------------------------------------------------------------------------
 
