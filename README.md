@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p>
-------------------------------------------------------------------------
 
+
+<div align="center">
 ## 🚀 About Me
 
 -   💻 Full Stack JavaScript Developer with a strong focus on backend
@@ -15,7 +16,7 @@
     Architecture
 -   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
 -   📚 Exploring System Design, Microservices & Cloud Technologies
-
+</div>
 ------------------------------------------------------------------------
 
 # 💻 Tech Stack
