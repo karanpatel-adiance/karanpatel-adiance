@@ -5,7 +5,7 @@
 ### MERN Stack Developer 
 
 <p>
-                    M(MongoDB) • E(Express) • R(React) • N(NodeJS) 
+                    M(MongoDB) • E(Express) • R(React) • N(NodeJS)<br><br> 
   Mongoose • MongoDB • PostgreSQL • Prisma • Docker • Redis • RabbitMQ • BullMQ • Pino 
 </p>
 
