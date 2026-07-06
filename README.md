@@ -1,7 +1,26 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
+</p> -->
+<h1 align="center">Karan Patel</h1>
+
+<h3 align="center">
+• MERN Stack Dev • Nestjs Lover • Building Enterprise Grade Apps • Building Scalable Applications
+</h3>
+
+<p align="center">
+🚀 Mastering Backend Engineering &nbsp;•&nbsp;
+🏗️ System Design Enthusiast &nbsp;•&nbsp;
+⚡ Clean Architecture &nbsp;•&nbsp;
+☁️ Exploring Distributed Systems
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mastering-Backend_Engineering-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-Microservices-orange?style=flat-square" />
+</p>
 <hr>
 
 <div align="center">
