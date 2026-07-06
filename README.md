@@ -2,29 +2,6 @@
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p> -->
 
-<div align="center">
-
-## 🚀 About Me
-
--   💻 Full Stack JavaScript Developer with a strong focus on backend development
-        
--   ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
-    
--   🌐 Developing modern web applications using React.js & Next.js
-    
--   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
-    
--   📚 Exploring System Design, Microservices & Cloud Technologies
-    
--   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
-    
--   🔐 Passionate about Authentication, Authorization, Security & Clean Enterprise  Architecture
-  
-</div>
-
-<hr>
-
-
 <h1 align="center">Karan Patel</h1>
 
 <h3 align="center">
@@ -91,6 +68,24 @@
 <hr>
 
 <div align="center">
+
+## 🚀 About Me
+
+-   💻 Full Stack JavaScript Developer with a strong focus on backend development
+        
+-   ⚙️ Building scalable backend services with Node.js, NestJS & Express.js
+    
+-   🌐 Developing modern web applications using React.js & Next.js
+    
+-   🛢️ Working with MongoDB, Mongoose, PostgreSQL & Prisma ORM
+    
+-   📚 Exploring System Design, Microservices & Cloud Technologies
+    
+-   🐳 Currently learning Docker, Redis, RabbitMQ, BullMQ & Pino
+    
+-   🔐 Passionate about Authentication, Authorization, Security & Clean Enterprise  Architecture
+  
+</div>
 
 
 <hr>
