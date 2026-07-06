@@ -1,27 +1,6 @@
 <!-- <p align="center">
   <img src="./assets/banner.png" alt="Karan Patel Banner" width="100%" />
 </p> -->
-<h1 align="center">Karan Patel</h1>
-
-<h3 align="center">
-• MERN Stack Dev • Nestjs Lover • Building Enterprise Grade Apps • Building Scalable Applications
-</h3>
-
-<p align="center">
-🚀 Mastering Backend Engineering &nbsp;•&nbsp;
-🏗️ System Design Enthusiast &nbsp;•&nbsp;
-⚡ Clean Architecture &nbsp;•&nbsp;
-☁️ Exploring Distributed Systems
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mastering-Backend_Engineering-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploring-Microservices-orange?style=flat-square" />
-</p>
-<hr>
 
 <div align="center">
 
@@ -45,41 +24,74 @@
 
 <hr>
 
+
+<h1 align="center">Karan Patel</h1>
+
+<h3 align="center">
+• MERN Stack Dev • Nestjs Lover • Building Enterprise Grade Apps • Building Scalable Applications
+</h3>
+
+<p align="center">
+🚀 Mastering Backend Engineering &nbsp;•&nbsp;
+🏗️ System Design Enthusiast &nbsp;•&nbsp;
+⚡ Clean Architecture &nbsp;•&nbsp;
+☁️ Exploring Distributed Systems
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mastering-Backend_Engineering-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-System_Design-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-Microservices-orange?style=flat-square" />
+</p>
+
+<br />
+
+<br/>
+
+<hr>
+
 <div align="center">
 
 # 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>&nbsp;
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/BullMQ-F4B400?style=for-the-badge&color=F4B400"/>
-<img src="https://img.shields.io/badge/Pino-FFD43B?style=for-the-badge&color=FFD43B"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/BullMQ-F4B400?style=for-the-badge&color=F4B400"/>&nbsp;
+<img src="https://img.shields.io/badge/Pino-FFD43B?style=for-the-badge&color=FFD43B"/>&nbsp;
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp;
 
 </div>
+
+<hr>
+
+<div align="center">
+
 
 <hr>
 
